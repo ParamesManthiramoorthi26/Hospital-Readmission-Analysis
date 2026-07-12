@@ -295,6 +295,7 @@ Although Zip Code and Longitude are highly correlated, this relationship does **
 
 Both variables describe the geographical location of patients. Their strong correlation is explained by geography rather than one variable influencing the other.
 
+![Heat Map](Plots/heat_plot.png)
 ---
 
 # 📊 Imputation Strategy Comparison
